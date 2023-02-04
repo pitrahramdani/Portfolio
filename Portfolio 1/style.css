@@ -1,0 +1,77 @@
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.5) 50%, rgba(0, 0, 0, 0.5) 50%), url("img/1.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 1) 50%);
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+navbar-brand {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.text1 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 40px;
+}
+
+.text2 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 50px;
+}
+
+.lorem {
+  margin-top: 20px;
+}
+
+#wadah {
+  margin-top: 130px;
+}
+
+#login {
+  width: 18rem;
+  height: 23rem;
+  background-color: rgba(82, 81, 81, 0.238);
+  border-radius: 15px;
+}
+
+.text-login {
+  text-align: center;
+  padding-top: 15px;
+}
+
+label {
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+
+input {
+  text-align: start;
+  width: 268px;
+}
+
+.tbl {
+  margin-top: 15px;
+  padding: 5px 15px 5px 15px;
+  border-radius: 5px;
+}
+
+.akhir {
+  text-align: center;
+  margin-top: 25px;
+}
+
+.navbar-nav .nav-link:hover {
+  color: green;
+}
+
+.icon .bi {
+  color: white;
+  font-size: 30px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.icon .bi:hover {
+  color: green;
+}
